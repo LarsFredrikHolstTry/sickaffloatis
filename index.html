@@ -4,16 +4,26 @@
     <head>
         <title>sick af floatis - home</title>
         <link rel="stylesheet" type="text/css" href="styles/index.css">
-        <script type="text/javascript">
+        <style type="text/css">    
             
-            if (screen.width <= 800) {
-                window.alert("sometext");
-            }
-            
-        </script>
+        .mobileShow { 
+            display: none;
+        }    
+            /* Smartphone Portrait and Landscape */    
+            @media only screen    and (min-device-width : 320px)    and (max-device-width : 480px){
+                .mobileShow { 
+                    display: inline;
+                }
+            } 
+        </style>
+        
     </head>
     
     <body>
+        
+        <div class="mobileShow"> TEXT OR IMAGE FOR MOBILE HERE </div>
+        
+        
         <!-- navigation bar top -->
         <nav class="menubar">
             <div id="navmenu">
