@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {    
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.menubar {
+    margin-right: 300px;
+    margin-top: -20px
+}
+
+.menubar ul {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.menubar ul li {
+    display: inline-block;
+    width: 220px;
+    list-style: none;
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+}
+
+.menubar ul li a {
+    text-decoration: none;
+    margin: 0 15px 0 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.menubar ul li a:hover {
+    color: #4fc1e9;
+}
+
+
+.logo img {
+    margin: 10px auto 0px auto;
+    display: block;
+    width: 120px;
+    margin-right: 12px
+}
+
+.menubar ul li .left {
+    margin-right: 520px;
+    color: #586e72;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+
+.menubar ul li .right {
+    margin-right: -520px;
+    color: #586e72;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+
+.sommersalg {
+    background-color: #4fc1e9;
+    height: 250px;
+    margin-top: 5px;
+}
+
+.sommersalg p {
+    position: relative;
+    top: -320px;
+    color: white;
+    font-weight: bolder;
+    font-size: 36px;
+    letter-spacing: 10px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+.sommersalg a #handle {
+    margin: auto;
+    border-radius: 7.5px;
+    position: relative;
+    top: -290px;
+    color: #586e72;
+    background-color: white;
+    font-size: 15px;
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px #3686a3;
+    text-decoration: none;
+
+}
+
+.sommersalg #handle:hover {
+    top: -289.25px;
+    box-shadow: 0px 0px 0px #3686a3;
+    text-decoration: none;
+
+}
+
+.sommersalg #prosent {
+    margin: auto;
+    text-align: center;
+    font-size: 330px;
+    position: relative;
+    top: -63px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bolder;
+    color: #5ec5ea;
+    cursor: default;
+    user-select: none;
+
+}
