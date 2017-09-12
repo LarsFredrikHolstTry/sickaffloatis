@@ -1,0 +1,89 @@
+/* import font */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  background-color: #191919;
+}
+
+/* right menu bar */
+#right {
+  width: 185px;
+  min-height: 50%;
+  float: right;
+  background-color: #0f0e0e;
+  color: aliceblue;
+  list-style-type: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+#right li {
+  margin-left: 20px;
+  margin-top: 5px;
+  font-size: 13px;
+}
+
+#right h2 {
+  margin-left: 20px;
+  font-size: 16px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+#right h3 {
+  font-size: 18px;
+  margin-bottom: -5px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#right h3 a {
+  text-decoration: none;
+  color: white;
+}
+
+#right h3 a:hover {
+  color: #c31a26;
+}
+
+#right h4 {
+  font-size: 17px;
+  margin-bottom: -5px;
+  margin-top: 15px;
+}
+
+#right img {
+  padding-top: 10px;
+  padding-bottom: 7px;
+  display:block;
+  margin:auto;
+}
+
+#right li a { 
+  text-decoration: none; 
+  color: gray; 
+}
+
+#right li a:hover {
+  color: white;
+}
+
+#right hr {
+  border-color: black;
+}
+
+#red {
+  color: #761019;
+}
+
+#usercar {
+  padding-top: 10px;
+  width: 145px;
+  height: auto;
+}
+
+#userweapon {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 145px;
+  height: auto;
+}
