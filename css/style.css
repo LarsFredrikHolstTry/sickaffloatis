@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* KULEFABRIKK */
+#kulefabrikken {
+    margin-top: 20px;
+    width: 600px;
+    height: 50px;
+    background-color: grey;
+}
+
+#kulefabrikken img {
+    margin-bottom: 20px;
+}
+
+#kulefabrikken a {
+    font-family: 'Roboto', sans-serif;
+}
+

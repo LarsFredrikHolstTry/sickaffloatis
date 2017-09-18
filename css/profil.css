@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.wrapper {
+    width: 600px;
+    min-height: 50%;
+}
+
+#wrap {
+    margin-top: 20px;
+    width: 600px;
+    height: 380px;
+    background-color: #0f0e0e;
+}
+
+#banner img {
+    border-bottom: 1px solid black;
+    width: 600px;
+    height: 150px;
+}
+
+#profilbilde img {
+    position: relative;
+    border: 1px solid black;
+    float: left;
+    top: -80px;
+    left: 30px;
+}
+
+#nick {
+    float: left;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+#nick li a {
+    float: left;
+    font-size: 24px;
+}
+
+#info {
+    color: white;
+    margin-top: 120px;
+    margin-left: 220px;
+    text-align: left;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+}

@@ -7,10 +7,10 @@ body {
 
 /* right menu bar */
 #header img {
-  margin: 0 auto;
-  width: 1200px;
-  height: 160px;
-  margin-top: 15px;
+    margin-top: 16px;
+    box-shadow: 0px -2px 4px black;
+   position: relative; 
+   width: 100%;
 }
 
 #infoheader {
@@ -45,3 +45,4 @@ body {
 #infoheader #red:hover {
   font-weight: 900;
 }
+

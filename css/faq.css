@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 600px;
+    min-height: 100%;
+}
+
+#header h2 {
+    text-align: center;
+}
+
+#krimliste {
+    list-style-type: none;
+}
+
+#pengeliste {
+    list-style-type: none;
+}

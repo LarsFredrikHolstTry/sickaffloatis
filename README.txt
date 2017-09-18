@@ -21,9 +21,30 @@
 --	10. 		Giovane D'honore	0
 --
 
-
 - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * 
 
+--
+--	PENGE LISTE
+--
+
+--
+--	FORKLARING:  Fra 10 til 1 hvor 10 er dårligst og 1 er best.
+--	nr.		Pengerank		Penger
+--
+
+--
+--	1. 		Oljesjeik		50000000 - 5000000000000
+--	2. 		Multimillionær		9999999 - 50000000
+--	3. 		Millionær		1000000 - 9999999
+--	4. 		Aksjemegler		500001 - 999999
+--	5. 		Gambler			100001 - 500000
+--	6. 		Litt rik		50001 - 100000
+--	7. 		Langer			15001 - 50000
+--	8. 		Arbeider		2001 - 15000
+--	9. 		NAVer			0 - 2000
+--
+
+- * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * 
 
 --
 --	BY LISTE
@@ -131,6 +152,25 @@
 --	9. 		Tec 9			(C:\xampp\htdocs\mafiagamev2\images\weapons\tec9.png)			        7 000
 --	10. 		Kniv			(C:\xampp\htdocs\mafiagamev2\images\weapons\kniv.png)			        300
 --
+
+
+- * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * 
+
+
+--
+--	STATENS KULER
+--
+
+--
+--	FORKLARING: Pris for kuler på statens kuler
+--	Nr.		Kuler			Pris pr. kule
+--
+
+--
+--	1. 		1			500
+--
+
+- * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * 
 
 
 

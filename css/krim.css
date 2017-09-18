@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+table { 
+    width: 600px; 
+    border-collapse: collapse; 
+    margin: 0px auto;
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+    background: aliceblue; 
+}
+th { 
+    background: #0f0e0e; 
+    color: aliceblue; 
+    font-weight: bold; 
+}
+
+td, th { 
+    padding: 10px; 
+    border: 1px solid black; 
+    text-align: left; 
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+tr:hover {
+    background: #a9a9a9;
+    cursor: pointer;
+}
+
+img {
+    margin-top: 20px;
+}

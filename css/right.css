@@ -8,7 +8,7 @@ body {
 /* right menu bar */
 #right {
   width: 185px;
-  min-height: 50%;
+  height: 500px;
   float: right;
   background-color: #0f0e0e;
   color: aliceblue;

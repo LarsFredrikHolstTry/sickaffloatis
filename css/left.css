@@ -8,7 +8,7 @@ body {
 /* left menu bar */
 #left {
   width: 185px;
-  min-height: 50%;
+  height: 500px;
   float: left;
   background-color: #0f0e0e;
   color: aliceblue;
